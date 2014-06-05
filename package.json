@@ -22,7 +22,7 @@
     "url": "git://github.com/jfromaniello/winlog.git"
   },
   "dependencies": {
-    "node-windows": "0.1.4"
+    "node-windows": "git://github.com/joeandaverde/node-windows.git"
   },
   "main": "./lib/eventlog",
   "os": [
